@@ -5,3 +5,6 @@
 - Inherit
 - Box model
 - Display
+- Box-Sizing
+- Colors
+- heigtth and width
