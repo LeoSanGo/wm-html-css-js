@@ -11,3 +11,6 @@
 - Overflow
 - ViewPort
 - Float
+- Text
+- Position
+- Media Query
